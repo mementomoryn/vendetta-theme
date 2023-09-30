@@ -6,7 +6,6 @@
         "name": "mementomoryn",
         "id": "1141914190861307934"
     }],
-    "spec": 2,
     "semanticColors": {
         "CHAT_BACKGROUND":              [ "#2b2329", "#ffffff" ],
         "HEADER_PRIMARY":               [ "#e792c5", "#070607" ],
