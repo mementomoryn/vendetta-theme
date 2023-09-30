@@ -19,19 +19,19 @@
             "#1d2021"
         ],
         "BACKGROUND_MENTIONED": [
-            "#bdae931a",
+            "#bd93931a",
             "#665c541a",
-            "#bdae931a"
+            "#bd93931a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#bdae931a",
+            "#bd93931a",
             "#665c541a",
-            "#bdae931a"
+            "#bd93931a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#bdae931a",
+            "#bd93931a",
             "#665c541a",
-            "#bdae931a"
+            "#bd93931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#282828",
@@ -114,9 +114,9 @@
             "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#f2bbbb",
+            "#ffc2c2",
             "#665c54",
-            "#bdae93"
+            "#bd9393"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#282828",
@@ -296,7 +296,7 @@
         "INTERACTIVE_NORMAL": [
             "#ffdcdc",
             "#665c54",
-            "#bdae93"
+            "#bd9393"
         ],
         "LOGO_PRIMARY": [
             "#b8ddfa",
@@ -314,9 +314,9 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": [
-            "#bdae93",
+            "#bd9393",
             "#665c54",
-            "#bdae93"
+            "#bd9393"
        ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#382e2e",
@@ -324,14 +324,14 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": [
-            "#bdae93",
+            "#bd9393",
             "#665c54",
-            "#bdae93"
+            "#bd9393"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
-            "#bdae93",
+            "#bd9393",
             "#665c54",
-            "#bdae93"
+            "#bd9393"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#382e2e",
@@ -404,7 +404,7 @@
             "#ffdcdc"
         ],
         "TEXT_MUTED": [
-            "#7d6472",
+            "#845c73",
             "#a89984",
             "#7c6f64"
         ],
@@ -429,7 +429,7 @@
         "PRIMARY_100": "#928374",
         "PRIMARY_130": "#f9f5d7",
         "PRIMARY_200": "#ebdbb2",
-        "PRIMARY_230": "#bdae93",
+        "PRIMARY_230": "#bd9393",
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#ffbdbd",
         "PRIMARY_400": "#886d7e",
