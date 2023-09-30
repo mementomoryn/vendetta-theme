@@ -399,12 +399,12 @@
             "#ff6b6b"
         ],
         "TEXT_LINK": [
-            "#81bce9",
+            "#bc70c2",
             "#427b58",
             "#ab84ae"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#97b9d3",
+            "#ab84ae",
             "#282828",
             "#ffdcdc"
         ],
@@ -471,7 +471,7 @@
         "RED_460": "#ec9393",
         "GREEN_360": "#ab84ae",
         "WHITE_500": "#ffdcdc",
-        "YELLOW_300": "#578cdb"
+        "YELLOW_300": "#78a3e2"
     },
     "plus": {
         "version": 0,
