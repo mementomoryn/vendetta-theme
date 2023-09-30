@@ -1,6 +1,0 @@
-#fbf1c7 on line/indent 1 are texts colors for darker mode
-HEADER_PRIMARY is title text colors
-HEADER_SECONDARY is subtitle text colors
-BACKGROUND_ACCENT is button colors
-CHANNEL_DEFAULT is text colors for text channel without notification?
-CHANNEL_ICON is icon colors for text channel
