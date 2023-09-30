@@ -460,7 +460,7 @@
         "BLACK_830": "#000000",
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
-        "BRAND_230": "#ff0000",
+        "BRAND_230": "#ffdcdc",
         "BRAND_260": "#ffbdbd",
         "BRAND_360": "#fdc3c3",
         "BRAND_430": "#fdc3c3",
@@ -471,7 +471,7 @@
         "RED_460": "#ec9393",
         "GREEN_360": "#ab84ae",
         "WHITE_500": "#ffdcdc",
-        "YELLOW_300": "#d65d0e"
+        "YELLOW_300": "#dbb857"
     },
     "plus": {
         "version": 0,
