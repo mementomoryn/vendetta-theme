@@ -97,7 +97,12 @@
             "#282828",
             "#ffdcdc",
             "#000000"
-        ],			
+        ],
+        "BUTTON_POSITIVE_BACKGROUND": [
+            "#ab84ae",
+            "#ab84ae",
+            "#ab84ae"
+        ],
         "CHANNELS_DEFAULT": [
             "#cca8a8",
             "#928374",
@@ -364,7 +369,7 @@
             "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#ab84ae",
+            "#faadd0",
             "#427b58",
             "#ab84ae"
         ],
