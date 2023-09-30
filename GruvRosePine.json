@@ -364,7 +364,7 @@
             "#ff6b6b"
         ],
         "STATUS_DANGER_TEXT": [
-            "#c48ec7",
+            "#83a598",
             "#076678",
             "#83a598"
         ],
@@ -399,12 +399,12 @@
             "#ff6b6b"
         ],
         "TEXT_LINK": [
-            "#f1a2a2",
+            "#bc70c2",
             "#427b58",
             "#ab84ae"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#da9595",
+            "#ab84ae",
             "#282828",
             "#ffebeb"
         ],
@@ -477,7 +477,6 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_check": "#b8ddfa",
             "ic_mic_neutral": "#fecdcd",
             "ic_mic_muted_neutral": "#fecdcd",
             "ic_soundboard":"#fecdcd",
