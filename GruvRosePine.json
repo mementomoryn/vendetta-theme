@@ -279,7 +279,7 @@
             "#ffdcdc"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#fbb6b6",
+            "#fecdcd",
             "#282828",
             "#ffdcdc"
         ],
@@ -471,7 +471,7 @@
         "RED_460": "#ec9393",
         "GREEN_360": "#ab84ae",
         "WHITE_500": "#ffdcdc",
-        "YELLOW_300": "#dbb857"
+        "YELLOW_300": "#578cdb"
     },
     "plus": {
         "version": 0,
