@@ -44,7 +44,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#dc6fa9",
+            "#f58e8e",
             "#d79921",
             "#d79921"
         ],
@@ -114,7 +114,7 @@
             "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#ceb6c4",
+            "#bdae93",
             "#665c54",
             "#bdae93"
         ],
@@ -204,12 +204,12 @@
             "#000000"
         ],
         "HEADER_PRIMARY": [
-            "#fee6f4",
+            "#fed7d7",
             "#282828",
             "#fbf1c7"
         ],
         "HEADER_SECONDARY": [
-            "#fdc1e5",
+            "#fdc3c3",
             "#b57614",
             "#fabd2f"
         ],
