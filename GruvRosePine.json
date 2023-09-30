@@ -364,9 +364,9 @@
             "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#84ae85",
+            "#ab84ae",
             "#427b58",
-            "#84ae85"
+            "#ab84ae"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#ffdcdc",
@@ -374,9 +374,9 @@
             "#ffdcdc"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#fab387",
-            "#fab387",
-            "#fab387"
+            "#fa8585",
+            "#fa8585",
+            "#fa8585"
         ],
         "STATUS_WARNING_TEXT": [
             "#ff6b6b",
@@ -396,7 +396,7 @@
         "TEXT_LINK": [
             "#81bce9",
             "#427b58",
-            "#84ae85"
+            "#ab84ae"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#97b9d3",
@@ -414,9 +414,9 @@
             "#ebdbb2"
         ],
         "TEXT_POSITIVE": [
-            "#84ae85",
+            "#ab84ae",
             "#427b58",
-            "#84ae85"
+            "#ab84ae"
         ],
         "TEXT_WARNING": [
             "#ff6b6b",
@@ -464,7 +464,7 @@
         "RED_400": "#ec9393",
         "RED_430": "#ec9393",
         "RED_460": "#ec9393",
-        "GREEN_360": "#84ae85",
+        "GREEN_360": "#ab84ae",
         "WHITE_500": "#ffdcdc",
         "YELLOW_300": "#d65d0e"
     },
