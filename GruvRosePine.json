@@ -9,9 +9,9 @@
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#ff6b6b",
+            "#f97676",
             "#9d0006",
-            "#ff6b6b"
+            "#f97676"
         ],
         "BACKGROUND_FLOATING": [
             "#382e2e",
@@ -229,9 +229,9 @@
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
-            "#ff6b6b",
+            "#f97676",
             "#9d0006",
-            "#ff6b6b"
+            "#f97676"
         ],
         "INFO_HELP_BACKGROUND": [
             "#282828",
@@ -359,9 +359,9 @@
             "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#ff6b6b",
+            "#f97676",
             "#9d0006",
-            "#ff6b6b"
+            "#f97676"
         ],
         "STATUS_DANGER_TEXT": [
             "#c48ec7",
@@ -384,9 +384,9 @@
             "#fa8585"
         ],
         "STATUS_WARNING_TEXT": [
-            "#ff6b6b",
+            "#f97676",
             "#9d0006",
-            "#ff6b6b"
+            "#f97676"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#076678",
@@ -394,9 +394,9 @@
             "#076678"
         ],
         "TEXT_DANGER": [
-            "#ff6b6b",
+            "#f97676",
             "#9d0006",
-            "#ff6b6b"
+            "#f97676"
         ],
         "TEXT_LINK": [
             "#b8ddfa",
@@ -424,7 +424,7 @@
             "#ab84ae"
         ],
         "TEXT_WARNING": [
-            "#ff6b6b",
+            "#f97676",
             "#9d0006",
             "#cc241d"
         ]
