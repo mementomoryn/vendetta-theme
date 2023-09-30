@@ -49,22 +49,22 @@
             "#ec9393"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#2f23287a",
+            "#432d367a",
             "#d5c4a17a",
             "#5049457a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#d4a0a026",
+            "#bc9f9f26",
             "#382e2e26",
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#d4a0a026",
+            "#bc9f9f26",
             "#382e2e26",
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2f2328",
+            "#432d36",
             "#d5c4a1",
             "#282828"
         ],
@@ -99,9 +99,9 @@
             "#000000"
         ],
         "BUTTON_POSITIVE_BACKGROUND": [
-            "#ab84ae",
-            "#ab84ae",
-            "#ab84ae"
+            "#bb8dbf",
+            "#bb8dbf",
+            "#bb8dbf"
         ],
         "CHANNELS_DEFAULT": [
             "#c4b0b0",
@@ -229,7 +229,7 @@
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
-            "#f97676",
+            "#bb8dbf",
             "#9d0006",
             "#f97676"
         ],
@@ -364,14 +364,14 @@
             "#f97676"
         ],
         "STATUS_DANGER_TEXT": [
-            "#c48ec7",
+            "#bb8dbf",
             "#076678",
             "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#faadd0",
             "#427b58",
-            "#ab84ae"
+            "#bb8dbf"
         ],
         "STATUS_POSITIVE_TEXT": [
             "#fbdbdb",
@@ -401,7 +401,7 @@
         "TEXT_LINK": [
             "#b8ddfa",
             "#427b58",
-            "#ab84ae"
+            "#bb8dbf"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#c7dbea",
@@ -419,9 +419,9 @@
             "#ebb2b2"
         ],
         "TEXT_POSITIVE": [
-            "#ab84ae",
+            "#bb8dbf",
             "#427b58",
-            "#ab84ae"
+            "#bb8dbf"
         ],
         "TEXT_WARNING": [
             "#f97676",
@@ -439,7 +439,7 @@
         "PRIMARY_360": "#ffbdbd",
         "PRIMARY_400": "#886d7e",
         "PRIMARY_460": "#382e2e",
-        "PRIMARY_500": "#2f2328",
+        "PRIMARY_500": "#432d36",
         "PRIMARY_560": "#382e2e",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#382e2e",
@@ -469,7 +469,7 @@
         "RED_400": "#ad7db0",
         "RED_430": "#ec9393",
         "RED_460": "#ec9393",
-        "GREEN_360": "#ab84ae",
+        "GREEN_360": "#bb8dbf",
         "WHITE_500": "#fbdbdb",
         "YELLOW_300": "#78a3e2"
     },
@@ -477,13 +477,13 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "app_installed_check": "#ab84ae",
+            "app_installed_check": "#bb8dbf",
             "ic_check": "#b8ddfa",
             "ic_mic_neutral": "#fecdcd",
             "ic_mic_muted_neutral": "#fecdcd",
             "ic_new_pins": "#fbdbdb",
             "ic_radio_circle_checked": "#b8ddfa",
-            "ic_radio_circle_checked_green": "#ab84ae",
+            "ic_radio_circle_checked_green": "#bb8dbf",
             "ic_radio_square_checked_24px": "#b8ddfa",
             "ic_selection_checked_24px": "#b8ddfa",
             "ic_soundboard":"#fecdcd",
