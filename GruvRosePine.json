@@ -49,7 +49,7 @@
             "#d79921"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#5049457a",
+            "#4f45457a",
             "#d5c4a17a",
             "#5049457a"
         ],
@@ -64,7 +64,7 @@
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#504945",
+            "#4f4545",
             "#d5c4a1",
             "#282828"
         ],
@@ -434,7 +434,7 @@
         "PRIMARY_360": "#fabd2f",
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#3C3836",
-        "PRIMARY_500": "#504945",
+        "PRIMARY_500": "#4f4545",
         "PRIMARY_560": "#3c3836",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#3C3836",
