@@ -44,7 +44,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#4db8ff",
+            "#dc6fa9",
             "#d79921",
             "#d79921"
         ],
@@ -99,12 +99,12 @@
             "#000000"
         ],			
         "CHANNELS_DEFAULT": [
-            "#f3e2ec",
+            "#ceb6c4",
             "#928374",
             "#928374"			
         ],
         "CHANNEL_ICON": [
-            "#87d0ff",
+            "#9cc9e7",
             "#076678",
             "#83a598"
         ],
@@ -114,7 +114,7 @@
             "#000000"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
-            "#bdae93",
+            "#ceb6c4",
             "#665c54",
             "#bdae93"
         ],
