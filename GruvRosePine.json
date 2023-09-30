@@ -308,6 +308,16 @@
             "#076678",
             "#83a598"
         ],
+        "MENTION_BACKGROUND": [
+            "#fbdbdb4d",
+            "#fbdbdb26",
+            "#fbdbdb4d"
+        ],
+        "MENTION_FOREGROUND": [
+            "#b8ddfa",
+            "#b8ddfa",
+            "#b8ddfa"
+        ],
         "MODAL_FOOTER_BACKGROUND": [
             "#282828",
             "#ebb2b2",
