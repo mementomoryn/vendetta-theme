@@ -211,7 +211,7 @@
         "HEADER_SECONDARY": [
             "#fdc3c3",
             "#b57614",
-            "#fa4270"
+            "#ffbdbd"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#282828",
@@ -294,7 +294,7 @@
             "#928374"
         ],
         "INTERACTIVE_NORMAL": [
-            "#f9c8c8",
+            "#ffdcdc",
             "#665c54",
             "#bdae93"
         ],
@@ -431,7 +431,7 @@
         "PRIMARY_200": "#ebdbb2",
         "PRIMARY_230": "#bdae93",
         "PRIMARY_300": "#928374",
-        "PRIMARY_360": "#fa4270",
+        "PRIMARY_360": "#ffbdbd",
         "PRIMARY_400": "#85876D",
         "PRIMARY_460": "#382e2e",
         "PRIMARY_500": "#2f2328",
@@ -456,7 +456,7 @@
         "BLACK_860": "#000000",
         "BLACK_900": "#000000",
         "BRAND_230": "#ff0000",
-        "BRAND_260": "#fa4270",
+        "BRAND_260": "#ffbdbd",
         "BRAND_360": "#fdc3c3",
         "BRAND_430": "#fdc3c3",
         "BRAND_500": "#ec9393",
