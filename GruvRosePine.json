@@ -9,9 +9,9 @@
     ],
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#ff6c5c",
+            "#ff6b6b",
             "#9d0006",
-            "#ff6c5c"
+            "#ff6b6b"
         ],
         "BACKGROUND_FLOATING": [
             "#382e2e",
@@ -224,9 +224,9 @@
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
-            "#ff6c5c",
+            "#ff6b6b",
             "#9d0006",
-            "#ff6c5c"
+            "#ff6b6b"
         ],
         "INFO_HELP_BACKGROUND": [
             "#282828",
@@ -354,9 +354,9 @@
             "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#ff6c5c",
+            "#ff6b6b",
             "#9d0006",
-            "#ff6c5c"
+            "#ff6b6b"
         ],
         "STATUS_DANGER_TEXT": [
             "#83a598",
@@ -379,9 +379,9 @@
             "#fab387"
         ],
         "STATUS_WARNING_TEXT": [
-            "#ff6c5c",
+            "#ff6b6b",
             "#9d0006",
-            "#ff6c5c"
+            "#ff6b6b"
         ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#076678",
@@ -389,22 +389,22 @@
             "#076678"
         ],
         "TEXT_DANGER": [
-            "#ff6c5c",
+            "#ff6b6b",
             "#9d0006",
-            "#ff6c5c"
+            "#ff6b6b"
         ],
         "TEXT_LINK": [
-            "#8ec07c",
+            "#81bce9",
             "#427b58",
             "#84ae85"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#ffdcdc",
+            "#97b9d3",
             "#282828",
             "#ffdcdc"
         ],
         "TEXT_MUTED": [
-            "#7c6f64",
+            "#7d6472",
             "#a89984",
             "#7c6f64"
         ],
@@ -419,7 +419,7 @@
             "#84ae85"
         ],
         "TEXT_WARNING": [
-            "#ff6c5c",
+            "#ff6b6b",
             "#9d0006",
             "#cc241d"
         ]
@@ -432,7 +432,7 @@
         "PRIMARY_230": "#bdae93",
         "PRIMARY_300": "#928374",
         "PRIMARY_360": "#ffbdbd",
-        "PRIMARY_400": "#85876D",
+        "PRIMARY_400": "#886d7e",
         "PRIMARY_460": "#382e2e",
         "PRIMARY_500": "#2f2328",
         "PRIMARY_560": "#382e2e",
@@ -472,12 +472,12 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "ic_mic_neutral": "#85876D",
-            "ic_mic_muted_neutral": "#85876D",
-            "ic_soundboard":"#85876D",
-            "ic_soundboard_muted": "#85876D",
-            "ic_video": "#85876D",
-            "ic_video_disabled": "#85876D"
+            "ic_mic_neutral": "#886d7e",
+            "ic_mic_muted_neutral": "#886d7e",
+            "ic_soundboard":"#886d7e",
+            "ic_soundboard_muted": "#886d7e",
+            "ic_video": "#886d7e",
+            "ic_video_disabled": "#886d7e"
         },
         "iconpack":"rosiecord-iconsax"
     },
