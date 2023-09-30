@@ -399,12 +399,12 @@
             "#ff6b6b"
         ],
         "TEXT_LINK": [
-            "#c582c9",
+            "#f1a2a2",
             "#427b58",
             "#ab84ae"
         ],
         "TEXT_LINK_LOW_SATURATION": [
-            "#ab84ae",
+            "#da9595",
             "#282828",
             "#ffebeb"
         ],
