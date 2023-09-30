@@ -399,7 +399,7 @@
             "#ff6b6b"
         ],
         "TEXT_LINK": [
-            "#bc70c2",
+            "#c582c9",
             "#427b58",
             "#ab84ae"
         ],
@@ -483,9 +483,7 @@
             "ic_soundboard":"#fecdcd",
             "ic_soundboard_muted": "#fecdcd",
             "ic_video": "#fecdcd",
-            "ic_video_disabled": "#fecdcd",
-            "emoji": "#fecdcd",
-            "unreadBadgeColor": "#b8ddfa"
+            "ic_video_disabled": "#fecdcd"
         },
         "iconpack":"rosiecord-iconsax"
     },
