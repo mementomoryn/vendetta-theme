@@ -274,7 +274,7 @@
             "#fed7d7"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffa3a3",
+            "#fbb6b6",
             "#282828",
             "#fed7d7"
         ],
@@ -284,17 +284,17 @@
             "#3c3836"
         ],
         "INTERACTIVE_MUTED": [
-            "#ecc6c6",
+            "#dabebe",
             "#665c54",
             "#928374"
         ],
         "ICON_MUTED": [
-            "#ecc6c6",
+            "#dabebe",
             "#665c54",
             "#928374"
         ],
         "INTERACTIVE_NORMAL": [
-            "#bdae93",
+            "#f9c8c8",
             "#665c54",
             "#bdae93"
         ],
