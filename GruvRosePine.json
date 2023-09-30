@@ -49,7 +49,7 @@
             "#ec9393"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#432d367a",
+            "#37252c7a",
             "#d5c4a17a",
             "#5049457a"
         ],
@@ -64,7 +64,7 @@
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#432d36",
+            "#37252c",
             "#d5c4a1",
             "#282828"
         ],
@@ -229,7 +229,7 @@
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
-            "#bb8dbf",
+            "#cb774d",
             "#9d0006",
             "#f97676"
         ],
@@ -259,7 +259,7 @@
             "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#fbdbdb",
+            "#bb8dbf",
             "#282828",
             "#fbdbdb"
         ],
@@ -274,7 +274,7 @@
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
-            "#fbdbdb",
+            "#deb67c",
             "#282828",
             "#fbdbdb"
         ],
@@ -359,32 +359,32 @@
             "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
-            "#f97676",
+            "#8d6d5e",
             "#9d0006",
             "#f97676"
         ],
         "STATUS_DANGER_TEXT": [
-            "#bb8dbf",
+            "#cb774d",
             "#076678",
             "#83a598"
         ],
         "STATUS_POSITIVE_BACKGROUND": [
-            "#faadd0",
+            "#b19eb3",
             "#427b58",
             "#bb8dbf"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#fbdbdb",
+            "#bb8dbf",
             "#282828",
             "#fbdbdb"
         ],
         "STATUS_WARNING_BACKGROUND": [
-            "#fa8585",
+            "#b3a289",
             "#fa8585",
             "#fa8585"
         ],
         "STATUS_WARNING_TEXT": [
-            "#f97676",
+            "#deb67c",
             "#9d0006",
             "#f97676"
         ],
@@ -394,7 +394,7 @@
             "#076678"
         ],
         "TEXT_DANGER": [
-            "#f97676",
+            "#cb774d",
             "#9d0006",
             "#f97676"
         ],
@@ -424,7 +424,7 @@
             "#bb8dbf"
         ],
         "TEXT_WARNING": [
-            "#f97676",
+            "#deb67c",
             "#9d0006",
             "#cc241d"
         ]
@@ -439,7 +439,7 @@
         "PRIMARY_360": "#ffbdbd",
         "PRIMARY_400": "#886d7e",
         "PRIMARY_460": "#382e2e",
-        "PRIMARY_500": "#432d36",
+        "PRIMARY_500": "#37252c",
         "PRIMARY_560": "#382e2e",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#382e2e",
