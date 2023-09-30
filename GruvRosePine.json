@@ -15,7 +15,7 @@
         ],
         "BACKGROUND_FLOATING": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#1d2021"
         ],
         "BACKGROUND_MENTIONED": [
@@ -80,17 +80,17 @@
         ],
         "BACKGROUND_SECONDARY": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#1d2021"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#1d2021"
         ],
         "BACKGROUND_TERTIARY": [
             "#1d2021",
-            "#f9f5d7",
+            "#f9d7eb",
             "#000000"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
@@ -105,8 +105,8 @@
         ],
         "CHANNELS_DEFAULT": [
             "#cca8a8",
-            "#928374",
-            "#928374"			
+            "#91737e",
+            "#91737e"			
         ],
         "CHANNEL_ICON": [
             "#b8ddfa",
@@ -225,7 +225,7 @@
         ],
         "INFO_DANGER_FOREGROUND": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#000000"
         ],
         "INFO_DANGER_TEXT": [
@@ -240,13 +240,13 @@
         ],
         "INFO_HELP_FOREGROUND": [
             "#1d2021",
-            "#f9f5d7",
+            "#f9d7eb",
             "#000000"
         ],
         "INFO_HELP_TEXT": [
             "#ffdcdc",
             "#282828",
-            "#ebdbb2"
+            "#ebb2b2"
         ],
         "INFO_POSITIVE_BACKGROUND": [
             "#282828",
@@ -255,7 +255,7 @@
         ],
         "INFO_POSITIVE_FOREGROUND": [
             "#1d2021",
-            "#f9f5d7",
+            "#f9d7eb",
             "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
@@ -270,7 +270,7 @@
         ],
         "INFO_WARNING_FOREGROUND": [
             "#1d2021",
-            "#f9f5d7",
+            "#f9d7eb",
             "#000000"
         ],
         "INFO_WARNING_TEXT": [
@@ -291,12 +291,12 @@
         "INTERACTIVE_MUTED": [
             "#dabebe",
             "#665c54",
-            "#928374"
+            "#91737e"
         ],
         "ICON_MUTED": [
             "#bedcf4",
             "#665c54",
-            "#928374"
+            "#91737e"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffdcdc",
@@ -310,12 +310,12 @@
         ],
         "MODAL_FOOTER_BACKGROUND": [
             "#282828",
-            "#ebdbb2",
+            "#ebb2b2",
             "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#000000"
         ],
         "REDESIGN_BUTTON_OVERLAY_PRESSED_BACKGROUND": [
@@ -325,7 +325,7 @@
        ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#000000"
         ],
         "REDESIGN_BUTTON_SECONDARY_ALT_TEXT": [
@@ -345,7 +345,7 @@
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -355,7 +355,7 @@
         ],
         "SCROLLBAR_THIN_TRACK": [
             "#382e2e",
-            "#ebdbb2",
+            "#ebb2b2",
             "#000000"
         ],
         "STATUS_DANGER_BACKGROUND": [
@@ -409,14 +409,14 @@
             "#ffdcdc"
         ],
         "TEXT_MUTED": [
-            "#845c73",
+            "#924f69",
             "#a89984",
             "#7c6f64"
         ],
         "TEXT_NORMAL": [
             "#ffdcdc",
             "#282828",
-            "#ebdbb2"
+            "#ebb2b2"
         ],
         "TEXT_POSITIVE": [
             "#ab84ae",
@@ -431,11 +431,11 @@
     },
     "rawColors": {
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-        "PRIMARY_100": "#928374",
-        "PRIMARY_130": "#f9f5d7",
-        "PRIMARY_200": "#ebdbb2",
+        "PRIMARY_100": "#91737e",
+        "PRIMARY_130": "#f9d7eb",
+        "PRIMARY_200": "#ebb2b2",
         "PRIMARY_230": "#bd9393",
-        "PRIMARY_300": "#928374",
+        "PRIMARY_300": "#91737e",
         "PRIMARY_360": "#ffbdbd",
         "PRIMARY_400": "#886d7e",
         "PRIMARY_460": "#382e2e",
@@ -465,7 +465,7 @@
         "BRAND_360": "#fdc3c3",
         "BRAND_430": "#fdc3c3",
         "BRAND_500": "#ec9393",
-        "BRAND_560": "#928374",
+        "BRAND_560": "#91737e",
         "RED_400": "#ec9393",
         "RED_430": "#ec9393",
         "RED_460": "#ec9393",
