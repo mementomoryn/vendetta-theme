@@ -44,9 +44,9 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#f07575",
-            "#f07575",
-            "#f07575"
+            "#814b4b",
+            "#814b4b",
+            "#814b4b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#674c567a",
@@ -468,7 +468,7 @@
         "BRAND_230": "#fbdbdb",
         "BRAND_260": "#ffbdbd",
         "BRAND_360": "#fdc3c3",
-        "BRAND_430": "#fdc3c3",
+        "BRAND_430": "#bb8dbf",
         "BRAND_500": "#78a3e2",
         "BRAND_560": "#91737e",
         "RED_400": "#cb774d",
