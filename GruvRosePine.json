@@ -44,9 +44,9 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#814b4b",
-            "#814b4b",
-            "#814b4b"
+            "#f18e8e",
+            "#f18e8e",
+            "#f18e8e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#674c567a",
@@ -467,8 +467,8 @@
         "BLACK_900": "#000000",
         "BRAND_230": "#fbdbdb",
         "BRAND_260": "#ffbdbd",
-        "BRAND_360": "#fdc3c3",
-        "BRAND_430": "#bb8dbf",
+        "BRAND_360": "#bb8dbf",
+        "BRAND_430": "#fdc3c3",
         "BRAND_500": "#78a3e2",
         "BRAND_560": "#91737e",
         "RED_400": "#cb774d",
