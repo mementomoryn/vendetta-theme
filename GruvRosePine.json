@@ -289,7 +289,7 @@
             "#382e2e"
         ],
         "INTERACTIVE_MUTED": [
-            "#dabebe",
+            "#beceda",
             "#665c54",
             "#91737e"
         ],
@@ -469,7 +469,7 @@
         "BRAND_260": "#ffbdbd",
         "BRAND_360": "#d4a6d9",
         "BRAND_430": "#b25c69",
-        "BRAND_500": "#78a3e280",
+        "BRAND_500": "#b8ddfa26",
         "BRAND_560": "#91737e",
         "RED_400": "#cb774d",
         "RED_430": "#cb774d",
