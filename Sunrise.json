@@ -94,9 +94,9 @@
             "#000000"
         ],
         "BUTTON_POSITIVE_BACKGROUND": [
-            "#bb8dbf",
-            "#bb8dbf",
-            "#bb8dbf"
+            "#b583b9",
+            "#b583b9",
+            "#b583b9"
         ],
         "CHANNELS_DEFAULT": [
             "#c4b0b0",
@@ -254,7 +254,7 @@
             "#000000"
         ],
         "INFO_POSITIVE_TEXT": [
-            "#bb8dbf",
+            "#b583b9",
             "#282828",
             "#fbdbdb"
         ],
@@ -371,10 +371,10 @@
         "STATUS_POSITIVE_BACKGROUND": [
             "#b19eb3",
             "#427b58",
-            "#bb8dbf"
+            "#b583b9"
         ],
         "STATUS_POSITIVE_TEXT": [
-            "#bb8dbf",
+            "#b583b9",
             "#282828",
             "#fbdbdb"
         ],
@@ -401,7 +401,7 @@
         "TEXT_LINK": [
             "#b8ddfa",
             "#427b58",
-            "#bb8dbf"
+            "#b583b9"
         ],
         "TEXT_LINK_LOW_SATURATION": [
             "#c7dbea",
@@ -419,9 +419,9 @@
             "#ebb2b2"
         ],
         "TEXT_POSITIVE": [
-            "#bb8dbf",
+            "#b583b9",
             "#427b58",
-            "#bb8dbf"
+            "#b583b9"
         ],
         "TEXT_WARNING": [
             "#deb67c",
@@ -469,7 +469,7 @@
         "RED_400": "#799dd2",
         "RED_430": "#799dd2",
         "RED_460": "#799dd2",
-        "GREEN_360": "#bb8dbf",
+        "GREEN_360": "#b583b9",
         "WHITE_500": "#fbdbdb",
         "YELLOW_300": "#78a3e2"
     },
@@ -477,13 +477,13 @@
         "version": 0,
         "customOverlays": true,
         "icons": {
-            "app_installed_check": "#bb8dbf",
+            "app_installed_check": "#b583b9",
             "ic_check": "#b8ddfa",
             "ic_mic_neutral": "#fecdcd",
             "ic_mic_muted_neutral": "#fecdcd",
             "ic_new_pins": "#fbdbdb",
             "ic_radio_circle_checked": "#b8ddfa",
-            "ic_radio_circle_checked_green": "#bb8dbf",
+            "ic_radio_circle_checked_green": "#b583b9",
             "ic_radio_square_checked_24px": "#b8ddfa",
             "ic_selection_checked_24px": "#b8ddfa",
             "ic_soundboard":"#fecdcd",
