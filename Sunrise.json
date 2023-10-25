@@ -44,22 +44,22 @@
             "#b25c69"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#674c567a",
+            "#a17887267a",
             "#d5c4a17a",
             "#5049457a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#bc9f9f26",
-            "#382e2e26",
+            "#36303026",
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#bc9f9f26",
-            "#382e2e26",
+            "#36303026",
             "#d5c4a126"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#674c56",
+            "#a1788726",
             "#d5c4a1",
             "#282828"
         ],
@@ -74,12 +74,12 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#1d2021"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#1d2021"
         ],
@@ -219,7 +219,7 @@
             "#1d2021"
         ],
         "INFO_DANGER_FOREGROUND": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#000000"
         ],
@@ -279,9 +279,9 @@
             "#fbdbdb"
         ],
         "INTERACTIVE_HOVER": [
-            "#382e2e",
+            "#363030",
             "#665c54",
-            "#382e2e"
+            "#363030"
         ],
         "INTERACTIVE_MUTED": [
             "#a7b4be",
@@ -309,7 +309,7 @@
             "#000000"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#000000"
         ],
@@ -319,7 +319,7 @@
             "#bd9393"
        ],
         "REDESIGN_BUTTON_SECONDARY_ALT_PRESSED_BACKGROUND": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#000000"
         ],
@@ -334,22 +334,22 @@
             "#bd9393"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#382e2e",
-            "#382e2e",
-            "#382e2e"
+            "#363030",
+            "#363030",
+            "#363030"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#000000"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#382e2e",
-            "#382e2e",
-            "#382e2e"
+            "#363030",
+            "#363030",
+            "#363030"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#382e2e",
+            "#363030",
             "#ebb2b2",
             "#000000"
         ],
@@ -438,13 +438,13 @@
         "PRIMARY_300": "#91737e",
         "PRIMARY_360": "#ffbdbd",
         "PRIMARY_400": "#886d7e",
-        "PRIMARY_460": "#382e2e",
-        "PRIMARY_500": "#674c56",
-        "PRIMARY_560": "#382e2e",
+        "PRIMARY_460": "#363030",
+        "PRIMARY_500": "#a1788726",
+        "PRIMARY_560": "#363030",
         "PRIMARY_600": "#282828",
-        "PRIMARY_630": "#382e2e",
-        "PRIMARY_660": "#382e2e",
-        "PRIMARY_700": "#382e2e",
+        "PRIMARY_630": "#363030",
+        "PRIMARY_660": "#363030",
+        "PRIMARY_700": "#363030",
         "PRIMARY_800": "#1d2021",
         "PRIMARY_900": "#282828",
         "BLACK_500": "#000000",
